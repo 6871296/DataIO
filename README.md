@@ -29,7 +29,7 @@ DataIO是一个变量控制器，目前主要用于编辑JSON文件。
 ## 未来规划
 - 预计到1.3版：实现`insert`和`insert-append`功能
 - 预计到1.5版：推出基于easygui的UI Edition
-- 预计到2.0版：支持多个DataIO
+- 预计到2.0版：支持多个DataIO并行编辑（多标签页式编辑）
 - ……
 
 希望发布后有好的反馈！
